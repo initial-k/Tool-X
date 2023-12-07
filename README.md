@@ -71,6 +71,13 @@ Open Tool-X and type `rm -T` or `uninstall tool-x` to uninstall Tool-X.
 
 ------------------------------------------------------------------------
 
+
+### For Flattery ?
+
+**Paypal** **@kimieraisan** 
+
+------------------------------------------------------------------------
+
 **Warning**
 
 We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
